@@ -1,6 +1,11 @@
 #downloading the right libraries first 
+<<<<<<< HEAD
 library(broom)
 #trialgithub edit? 
+=======
+library(broom) 
+#trial gitpushing 
+>>>>>>> 748c2e9ef90bc7ed5a25dbeacee468974c032e3f
 library(tidyverse)
 library(ggplot2)
 library (nls2)
