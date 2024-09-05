@@ -1,5 +1,6 @@
 #downloading the right libraries first 
 library(broom)
+#trialgithub edit? 
 library(tidyverse)
 library(ggplot2)
 library (nls2)
