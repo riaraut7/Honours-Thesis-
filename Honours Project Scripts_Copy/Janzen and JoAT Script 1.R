@@ -9,8 +9,13 @@ library(phytools)
 library(patchwork)
 library(geiger)
 
+x <- 1
+
+
 #load your data 
 starting_dataset <- read.csv('final_curve_parameter_filter_2_info_11.3.24.csv', stringsAsFactors = TRUE) 
+
+
 
 #### Cleaning the data and averaging by species #### 
 #clean up your data 
